@@ -1,3 +1,4 @@
 image:https://travis-ci.org/seakayone/akka-in-action-learning.svg?branch=master["Build Status", link="https://travis-ci.org/seakayone/akka-in-action-learning"]
+image:https://codecov.io/gh/seakayone/akka-in-action-learning/branch/master/graph/badge.svg["Code Coverage", link="https://codecov.io/gh/seakayone/akka-in-action-learning"]
 
 This repository is my personal learning project and contains examples and tests from the book https://www.manning.com/books/akka-in-action[Akka in Action].
